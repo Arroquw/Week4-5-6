@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stack", "..\Stack\Stack.vcxproj", "{00A52A9E-5236-4B36-8851-06A684A63C33}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vierkant", "..\Vierkant\Vierkant.vcxproj", "{E002A553-AFA1-477A-AE0D-DC9F388833A1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Virtuele_functie", "..\Virtuele_functie\Virtuele_functie.vcxproj", "{05DDA7AF-3082-4B44-8C77-FA61A3DC7A5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week4", "Week4", "{B6EF00EB-1D25-4A5C-94A4-42E602BCC1FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week5", "Week5", "{2BDA3F2A-A4B2-45C9-A8D3-39792C1F7871}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "week6", "..\week6.1\week6.1.vcxproj", "{7525E721-5762-443B-996C-6BA7AF162E37}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week6", "Week6", "{725550DA-694B-4EE2-A06E-70F4A43CC6E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A52A9E-5236-4B36-8851-06A684A63C33}.Debug|x64.ActiveCfg = Debug|x64
+		{00A52A9E-5236-4B36-8851-06A684A63C33}.Debug|x64.Build.0 = Debug|x64
+		{00A52A9E-5236-4B36-8851-06A684A63C33}.Debug|x86.ActiveCfg = Debug|Win32
+		{00A52A9E-5236-4B36-8851-06A684A63C33}.Debug|x86.Build.0 = Debug|Win32
+		{00A52A9E-5236-4B36-8851-06A684A63C33}.Release|x64.ActiveCfg = Release|x64
+		{00A52A9E-5236-4B36-8851-06A684A63C33}.Release|x64.Build.0 = Release|x64
+		{00A52A9E-5236-4B36-8851-06A684A63C33}.Release|x86.ActiveCfg = Release|Win32
+		{00A52A9E-5236-4B36-8851-06A684A63C33}.Release|x86.Build.0 = Release|Win32
+		{E002A553-AFA1-477A-AE0D-DC9F388833A1}.Debug|x64.ActiveCfg = Debug|x64
+		{E002A553-AFA1-477A-AE0D-DC9F388833A1}.Debug|x64.Build.0 = Debug|x64
+		{E002A553-AFA1-477A-AE0D-DC9F388833A1}.Debug|x86.ActiveCfg = Debug|Win32
+		{E002A553-AFA1-477A-AE0D-DC9F388833A1}.Debug|x86.Build.0 = Debug|Win32
+		{E002A553-AFA1-477A-AE0D-DC9F388833A1}.Release|x64.ActiveCfg = Release|x64
+		{E002A553-AFA1-477A-AE0D-DC9F388833A1}.Release|x64.Build.0 = Release|x64
+		{E002A553-AFA1-477A-AE0D-DC9F388833A1}.Release|x86.ActiveCfg = Release|Win32
+		{E002A553-AFA1-477A-AE0D-DC9F388833A1}.Release|x86.Build.0 = Release|Win32
+		{05DDA7AF-3082-4B44-8C77-FA61A3DC7A5C}.Debug|x64.ActiveCfg = Debug|x64
+		{05DDA7AF-3082-4B44-8C77-FA61A3DC7A5C}.Debug|x64.Build.0 = Debug|x64
+		{05DDA7AF-3082-4B44-8C77-FA61A3DC7A5C}.Debug|x86.ActiveCfg = Debug|Win32
+		{05DDA7AF-3082-4B44-8C77-FA61A3DC7A5C}.Debug|x86.Build.0 = Debug|Win32
+		{05DDA7AF-3082-4B44-8C77-FA61A3DC7A5C}.Release|x64.ActiveCfg = Release|x64
+		{05DDA7AF-3082-4B44-8C77-FA61A3DC7A5C}.Release|x64.Build.0 = Release|x64
+		{05DDA7AF-3082-4B44-8C77-FA61A3DC7A5C}.Release|x86.ActiveCfg = Release|Win32
+		{05DDA7AF-3082-4B44-8C77-FA61A3DC7A5C}.Release|x86.Build.0 = Release|Win32
+		{7525E721-5762-443B-996C-6BA7AF162E37}.Debug|x64.ActiveCfg = Debug|x64
+		{7525E721-5762-443B-996C-6BA7AF162E37}.Debug|x64.Build.0 = Debug|x64
+		{7525E721-5762-443B-996C-6BA7AF162E37}.Debug|x86.ActiveCfg = Debug|Win32
+		{7525E721-5762-443B-996C-6BA7AF162E37}.Debug|x86.Build.0 = Debug|Win32
+		{7525E721-5762-443B-996C-6BA7AF162E37}.Release|x64.ActiveCfg = Release|x64
+		{7525E721-5762-443B-996C-6BA7AF162E37}.Release|x64.Build.0 = Release|x64
+		{7525E721-5762-443B-996C-6BA7AF162E37}.Release|x86.ActiveCfg = Release|Win32
+		{7525E721-5762-443B-996C-6BA7AF162E37}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{00A52A9E-5236-4B36-8851-06A684A63C33} = {B6EF00EB-1D25-4A5C-94A4-42E602BCC1FF}
+		{E002A553-AFA1-477A-AE0D-DC9F388833A1} = {B6EF00EB-1D25-4A5C-94A4-42E602BCC1FF}
+		{05DDA7AF-3082-4B44-8C77-FA61A3DC7A5C} = {2BDA3F2A-A4B2-45C9-A8D3-39792C1F7871}
+		{7525E721-5762-443B-996C-6BA7AF162E37} = {725550DA-694B-4EE2-A06E-70F4A43CC6E5}
+	EndGlobalSection
+EndGlobal
