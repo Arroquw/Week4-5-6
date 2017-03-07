@@ -5,12 +5,12 @@ template <class A_Type> class Wissel
 {
 public:
 	A_Type wissel(A_Type x, A_Type y);
+	Wissel();
 private:
 	A_Type a;
 };
 
-template <class A_Type> A_Type Wissel<A_Type>::wissel(A_Type x, A_Type y)
-{
+template <class A_Type> A_Type Wissel<A_Type>::wissel(A_Type x, A_Type y) {
 	std::cout << x << " " << y << std::endl;
 	a = x;
 	x = y;
