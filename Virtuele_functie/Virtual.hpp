@@ -15,12 +15,12 @@ protected:
 	char studie[30];
 public:
 	Student();
-	void print();
+	virtual void print();
 };
 class Werknemer : public Persoon {
 protected:
 	char afdeling[20];
 public:
 	Werknemer();
-	void print();
+	virtual void print();
 };

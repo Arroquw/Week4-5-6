@@ -146,7 +146,7 @@
     <ClInclude Include="Wissel.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Wissel.cpp" />
+    <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
